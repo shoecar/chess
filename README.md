@@ -19,9 +19,11 @@ AI vs AI
 - Board reprints during piece or cursor move for instant feedback
 
 <b>How To Play</b>
-0. Download <a href="http://installrails.com/steps/choose_os">Ruby</a> if you don't already have it
-1. Download this <a href="ruby-chess.zip">chess file</a>
-2. Uncompress 'ruby-chess.zip'
-3. Navigate to the folder in your command line tool of choice
-4. Run the command 'ruby chess.rb'
-5. Play!
+<ol>
+  <li>Download <a href="http://installrails.com/steps/choose_os">Ruby</a> if you don't already have it</li>
+  <li>Download this <a href="ruby-chess.zip">chess file</a></li>
+  <li>Uncompress 'ruby-chess.zip'</li>
+  <li>Navigate to the folder in your command line tool of choice</li>
+  <li>Run the command 'ruby chess.rb'</li>
+  <li>Play!</li>
+</ol>
